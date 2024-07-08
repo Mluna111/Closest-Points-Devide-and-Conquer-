@@ -1,4 +1,4 @@
-<h1>CS320Luna</h1>
+<h1>Closest Points (Divide & Conquer)</h1>
 
 <h2>Description</h2>
 <p>This project implements an algorithm to find the closest pair of points in a 2D space. The implementation uses a combination of brute force and divide-and-conquer strategies, along with merge sort for sorting points based on their coordinates.</p>
