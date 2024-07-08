@@ -52,7 +52,6 @@
     </p>
 <br/>
 <br/>
-<h2>Program walk-through:</h2>
 <p align="center">
 <b>Prompted to enter file name and output computed results: </b>
 <br/>
