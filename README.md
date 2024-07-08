@@ -6,6 +6,12 @@
 <h2>Languages and Utilities Used</h2>
 <ul>
     <li><b>C++</b></li>
+    <li><b>iostream:</b> Input and output streams.</li>
+    <li><b>fstream:</b> File stream for reading input from a file.</li>
+    <li><b>string:</b> String manipulation.</li>
+    <li><b>vector:</b> Dynamic array for storing points.</li>
+    <li><b>utility:</b> Pair utility for returning two points.</li>
+    <li><b>cmath:</b> Mathematical operations (e.g., square root).</li>
 </ul>
 
 <h2>Files in the Project</h2>
