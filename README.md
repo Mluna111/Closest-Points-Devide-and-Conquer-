@@ -18,7 +18,6 @@
 <h2>Environments Used</h2>
 <ul>
     <li><b>Windows 10</b></li>
-    <li><b>Linux</b></li>
 </ul>
 
 <h2>How to Run</h2>
